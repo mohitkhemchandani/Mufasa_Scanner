@@ -1,3 +1,5 @@
+### Contributors : 
+[Harshit Jain](https://github.com/cseharshit)
 
 Mufasa Scanner is intended to automate the working of Nessus in Linux using Selenium Python.
 
